@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://learn.microsoft.com/en-us/office/vba/api/overview/excel">
-    <img src="readmeDocs/vbalogo.jpg" alt="Logo">
+    <img src="readmeDocs/ExcelBanner.png" alt="Logo">
   </a>
 
   <h3 align="center">Excel Macro Automation</h3>
