@@ -76,8 +76,8 @@ End Sub
 ## 📜 Excel Catalogue 
 
 |       🤖   Excel            |  ⚙️ Functionalities                    | 
-| :--------------------------: || :------------------------------------ | 
-| [Search Keys in Directory](https://github.com/LimJiaEarn/ExcelMacroAutomations)  · Search in your file system an Excel file that contain a certain cell value <br> · Formatted search result with better insights/filters                 | 
+| :--------------------------: | :------------------------------------ | 
+| [Search Keys in Directory](https://github.com/LimJiaEarn/ExcelMacroAutomations) |  · Search in your file system an Excel file that contain a certain cell value <br> · Formatted search result with better insights/filters                 | 
 
 
 ## 🤸 Getting Started
