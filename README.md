@@ -7,10 +7,6 @@
   </a>
 
   <h3 align="center">Excel Macro Automation</h3>
-
-  <p align="center">
-    Developed over the course of my internship
-  </p>
 </div>
  
  ---
@@ -23,7 +19,8 @@
 
 ## 💡 Introduction
 
-This page serves as a guide to revise on the macros that I have developed. 
+During the course of my internship at British America Tobacco, I picked up VBA to automate some tasks that involved Excel. Little did I know despite it being known as "outdated", it has some incredible uses which I would soon discover and make some applications with them.
+I call it: Macro Enhanced Excels
 
 <table>
 <tr>
@@ -78,34 +75,26 @@ End Sub
 </table>
 
 
-## 📜 Macros Catalogue 
+## 📜 Excel Catalogue 
 
-|       🤖   Macros            |    ✍️ Last Revision          |  ⚙️ Functionalities                    | 
-| :--------------------------: | :--------------------------: | :------------------------------------ | 
-| [Search New Rows in Table](https://github.com/LimJiaEarn/ExcelMacroAutomations)     |      23 May 2023      |   · Custom column values to search <br> · Automatically generates tabled form result <br>              |
-| [Search Keys in Directory](https://github.com/LimJiaEarn/ExcelMacroAutomations)     |      5 June 2023      |   · Personalised Report Types <br> · Enhanced UX & UI <br> · Table formated reports for better insights/filters                 | 
+|       🤖   Excel            |  ⚙️ Functionalities                    | 
+| :--------------------------: || :------------------------------------ | 
+| [Search Keys in Directory](https://github.com/LimJiaEarn/ExcelMacroAutomations)  · Search in your file system an Excel file that contain a certain cell value <br> · Formatted search result with better insights/filters                 | 
 
 
 ## 🤸 Getting Started
 
-1. **Ask your supervisor which excel macros do you need for your scope** <sup>(optional)</sup>
-
-2. **Find & Download your required excel files**
+1. **Find & Download your required excel files**
    You can find the available excel macros [here](macros-Catalogue).
+
+
+2. **Open the excel macros** 
    > **Note**
-   > You need to have the permission to Enable Macros 
-
-3. **Open the excel macros** 
-   > **Warning**
-   > Be careful running this with elevated privileges. Code execution can be achieved with write permissions on the config file.
-
-
-## 👀 Examples
-
+   > You need to have organisation's permission to run macro-enabled excels or you need to [enable it manually](https://support.microsoft.com/en-us/office/enable-or-disable-macros-in-microsoft-365-files-12b036fd-d140-4e74-b45e-16fed1a7e5c6)
 
 
 ## 🧬 Building Blocks of my Macros 
-Here are the individual sub components I have developed which are the building blocks for the broader macro functions. It provides specific functionality and contributes to the overall functionality of the macros.
+Here are the individual sub components I have developed which are the building blocks for the broader macro features within the Excel files.
 
 <details>
 <summary> 1) Handles exception of deleting a given table name in active sheet. Returns True if deleted, False if table not found </summary>
@@ -340,12 +329,9 @@ End Function
 
 </details>
 
-## ⚠️ Limitations
+## ⚠️ Possible Limitations
 
-Macros that searches in folder and file paths are only tested in windows. Mac compatability is not tested.
-
-
-## 📖 Acknowledgments 
+Macros that searches in folder and file paths are only tested in windows 11. Mac compatability is not tested.
 
 
 
