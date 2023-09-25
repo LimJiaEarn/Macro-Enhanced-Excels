@@ -17,60 +17,8 @@
 
 ## 💡 Introduction
 
-During the course of my internship at British America Tobacco, I picked up VBA to automate some tasks that involved Excel. Little did I know despite it being known as "outdated", it has some incredible uses which I would soon discover and make some applications with them.
+During the course of my internship at British America Tobacco, I picked up VBA to automate some tasks that involved Excel. Little did I know despite it being known as "outdated", it has some incredible uses which I would soon discover and make some applications with them. 
 I call it: Macro Enhanced Excels
-
-<table>
-<tr>
-<th width="350rem" align="center"> </th> <th align="center"> Function </th> </th> <th align="center"> Subs </th>
-</tr>
-<tr></tr>
-<tr>
-<td> Sample Code
-<td>
-	
-```vb
-Function FuncNameHere(arg1 As String) As String
-	MsgBox "You passed in a string argument: " & arg1
-	' Returning argument passed in to caller
-	SubNameHere = arg1 
-End Function
-```
-
-</td>
-<td>
-	
-```vb
-Sub SubNameHere(arg1 As String, arg2 As Integer)
-	MsgBox "You passed in a string argument: " & arg1 
-	MsgBox "You passed in an integer argument: " & arg2 
-End Sub
-```
-
-</td>
-</tr>
-  
-<tr>
-<td> Arguments </td>
-<td align="center">✔️</td>
-<td align="center">✔️</td>
-</tr>
-<tr>
-<td> Return Values </td>
-<td align="center">✔️</td>
-<td align="center">❌</td>
-</tr>
-<tr>
-<td> Used as formulas </td>
-<td align="center">❌</td>
-<td align="center">❌</td>
-</tr>
-<tr>
-<td> Direct execution by user </td>
-<td align="center">❌</td>
-<td align="center">✔️</td>
-</tr>
-</table>
 
 
 ## 📜 Excel Catalogue 
@@ -92,7 +40,7 @@ End Sub
 
 
 ## 🧬 Building Blocks of my Macros 
-Here are the individual sub components I have developed which are the building blocks for the broader macro features within the Excel files.
+Here are the individual sub components I have developed which are the building blocks for the broader macro features within the Excel files. I wrote them here as their extremely useful modularly in my other excel projects I was developing during my internships which I cannot disclose here unfortunately 
 
 <details>
 <summary> 1) Handles exception of deleting a given table name in active sheet. Returns True if deleted, False if table not found </summary>
@@ -327,9 +275,11 @@ End Function
 
 </details>
 
-## ⚠️ Possible Limitations
+## ⚠️ Disclaimer
 
-Macros that searches in folder and file paths are only tested in windows 11. Mac compatability is not tested.
+- Macros that searches in folder and file paths are only tested in windows 11. Mac compatability is not tested !
+
+- There may be bugs which fell through the cracks of my own testing, if you do find any please let me know I will be happy to fix them !
 
 
 
