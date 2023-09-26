@@ -20,6 +20,7 @@
 During the course of my internship at British America Tobacco, I picked up VBA to automate some tasks that involved Excel. Little did I know despite it being known as "outdated", it has some incredible uses which I would soon discover and make some applications with them. 
 I call it: Macro Enhanced Excels
 
+<br>
 
 ## 📜 Excel Catalogue 
 
@@ -27,6 +28,8 @@ I call it: Macro Enhanced Excels
 | :--------------------------: | :------------------------------------ | 
 | [Search Keys in Directory](https://github.com/LimJiaEarn/Macro-Enhanced-Excels/blob/main/Excel%20Files%20Download/Search%20Key%20In%20Directory.xlsm) |  · Search in your specified folder system any Excel file that contain a cell value <br> · Formatted search result with better insights/filters <br> · Useful to search for any transactions/invoices of certain purchases etc automatically! | 
 | [Search New Entries in Table.](https://github.com/LimJiaEarn/Macro-Enhanced-Excels/blob/main/Excel%20Files%20Download/Search%20New%20Entries%20in%20Table.xlsm) |  · Compare 2 tables and retrieve entries that are new <br> · USeful to check for possible discrepencies or anomalies ! | 
+
+<br>
 
 ## 🤸 Getting Started
 
@@ -42,6 +45,8 @@ I call it: Macro Enhanced Excels
    > You need to have organisation's permission to run macro-enabled excels or you may need to [enable it manually](https://support.microsoft.com/en-us/office/enable-or-disable-macros-in-microsoft-365-files-12b036fd-d140-4e74-b45e-16fed1a7e5c6)
 
 4. **Follow the instructions inside the file!** 
+
+<br>
 
 ## 🧬 Building Blocks
 These are the modular components I developed which are the building blocks for the broader macro features. I noted them here for quick reference as they are extremely useful modularly during my other projects I was developing during my internships which I cannot disclose here unfortunately 
@@ -279,13 +284,15 @@ End Function
 
 </details>
 
+<br>
+
 ## ⚠️ Disclaimer
 
 - Macros that searches in folder and file paths are only tested in windows 11. Mac compatability is not tested !
 
 - There may be bugs which fell through the cracks of my own testing, if you do find any please let me know I will be happy to fix them !
 
-
+<br>
 
 ## 🌟 Spread the joy!
 **Share** these macros with your colleagues or friends on social media.
