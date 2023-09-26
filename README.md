@@ -10,7 +10,7 @@
  ---
  
 <p align="center">
-• <a href="#-introduction">Introduction</a> • <a href="#-macros-Catalogue">Macros Catalogue</a> • <a href="#-getting-started">Getting Started</a> • 
+• <a href="#-introduction">Introduction</a> • <a href="#-excel-catalogue">Excel Catalogue</a> • <a href="#-getting-started">Getting Started</a> • 
  </p>
  
 ---
@@ -25,21 +25,25 @@ I call it: Macro Enhanced Excels
 
 |       🤖   Excel            |  ⚙️ Functionalities                    | 
 | :--------------------------: | :------------------------------------ | 
-| [Search Keys in Directory](https://github.com/LimJiaEarn/ExcelMacroAutomations) |  · Search in your file system an Excel file that contain a certain cell value <br> · Formatted search result with better insights/filters                 | 
-
+| [Search Keys in Directory](https://github.com/LimJiaEarn/Macro-Enhanced-Excels/blob/main/Excel%20Files%20Download/Search%20Key%20In%20Directory.xlsm) |  · Search in your specified folder system any Excel file that contain a cell value <br> · Formatted search result with better insights/filters <br> · Useful to search for any transactions/invoices of certain purchases etc automatically! | 
+| [Search New Entries in Table.](https://github.com/LimJiaEarn/Macro-Enhanced-Excels/blob/main/Excel%20Files%20Download/Search%20New%20Entries%20in%20Table.xlsm) |  · Compare 2 tables and retrieve entries that are new <br> · USeful to check for possible discrepencies or anomalies ! | 
 
 ## 🤸 Getting Started
 
 1. **Find & Download your required excel files**
    You can find the available excel macros [here](https://github.com/LimJiaEarn/Macro-Enhanced-Excels/tree/main/Excel%20Files%20Download).
+   
+3. **Close (+Save) your other opened excel files** 
+   > **Optional**
+   > My macros have been implemented to be able to run in the background. However (I believe) due to Excel's own structure, it will freeze any opened Excel files. So if you want to work on other excel files, close them first and open them AFTER you have launched my macro
 
-
-2. **Open the excel macros** 
+3. **Open the excel macros** 
    > **Note**
-   > You need to have organisation's permission to run macro-enabled excels or you need to [enable it manually](https://support.microsoft.com/en-us/office/enable-or-disable-macros-in-microsoft-365-files-12b036fd-d140-4e74-b45e-16fed1a7e5c6)
+   > You need to have organisation's permission to run macro-enabled excels or you may need to [enable it manually](https://support.microsoft.com/en-us/office/enable-or-disable-macros-in-microsoft-365-files-12b036fd-d140-4e74-b45e-16fed1a7e5c6)
 
+4. **Follow the instructions inside the file!** 
 
-## 🧬 Building Blocks of my Macros 
+## 🧬 Building Blocks
 These are the modular components I developed which are the building blocks for the broader macro features. I noted them here for quick reference as they are extremely useful modularly during my other projects I was developing during my internships which I cannot disclose here unfortunately 
 
 <details>
