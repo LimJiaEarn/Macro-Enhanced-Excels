@@ -31,7 +31,7 @@ I call it: Macro Enhanced Excels
 ## 🤸 Getting Started
 
 1. **Find & Download your required excel files**
-   You can find the available excel macros [here](macros-Catalogue).
+   You can find the available excel macros [here](https://github.com/LimJiaEarn/Macro-Enhanced-Excels/tree/main/Excel%20Files%20Download).
 
 
 2. **Open the excel macros** 
@@ -40,7 +40,7 @@ I call it: Macro Enhanced Excels
 
 
 ## 🧬 Building Blocks of my Macros 
-Here are the individual sub components I have developed which are the building blocks for the broader macro features within the Excel files. I wrote them here as their extremely useful modularly in my other excel projects I was developing during my internships which I cannot disclose here unfortunately 
+These are the modular components I developed which are the building blocks for the broader macro features. I noted them here for quick reference as they are extremely useful modularly during my other projects I was developing during my internships which I cannot disclose here unfortunately 
 
 <details>
 <summary> 1) Handles exception of deleting a given table name in active sheet. Returns True if deleted, False if table not found </summary>
